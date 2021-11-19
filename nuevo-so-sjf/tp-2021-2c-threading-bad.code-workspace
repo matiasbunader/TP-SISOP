@@ -1,0 +1,54 @@
+{
+	"folders": [
+		{
+			"path": "kernel"
+		},
+		{
+			"path": "matelib"
+		},
+		{
+			"path": "memoria"
+		},
+		{
+			"path": "swamp"
+		},
+		{
+			"path": "carpincho"
+		},
+		{
+			"path": "utils"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"matelib.h": "c",
+			"config.h": "c",
+			"carpincho.h": "c",
+			"utils.h": "c",
+			"log.h": "c",
+			"memoria.h": "c",
+			"conexiones.h": "c",
+			"netdb.h": "c",
+			"kernel.h": "c",
+			"stdlib.h": "c",
+			"stdint.h": "c",
+			"stdio.h": "c",
+			"string.h": "c",
+			"errors.h": "c",
+			"serializacion.h": "c",
+			"list.h": "c",
+			"unistd.h": "c",
+			"time.h": "c",
+			"in.h": "c",
+			"semaforos.h": "c",
+			"queue.h": "c",
+			"io.h": "c",
+			"planificadores.h": "c",
+			"server.h": "c",
+			"stdbool.h": "c",
+			"semaphore.h": "c",
+			"uuid.h": "c",
+			"temporal.h": "c"
+		}
+	}
+}
